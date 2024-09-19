@@ -8066,7 +8066,7 @@
 		(dnp no)
 		(uuid "4100507a-8798-44a1-93da-d57c1c16d1f5")
 		(property "Reference" "FB1"
-			(at 41.275 21.59 90)
+			(at 41.91 17.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9297,7 +9297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TheBrutzlers_Lib:microswitch"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_RS282G05A3"
 			(at 106.68 91.44 0)
 			(effects
 				(font
@@ -13335,7 +13335,7 @@
 		(dnp no)
 		(uuid "dc1a8fca-69f8-4319-a8e1-3b69488bd147")
 		(property "Reference" "D1"
-			(at 48.895 21.59 0)
+			(at 50.8 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13343,7 +13343,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 47.625 17.78 0)
+			(at 53.34 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13981,7 +13981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TheBrutzlers_Lib:microswitch"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_RS282G05A3"
 			(at 106.68 96.52 0)
 			(effects
 				(font
